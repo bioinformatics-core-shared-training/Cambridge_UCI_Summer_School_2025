@@ -43,8 +43,8 @@ course, as they will need some editing first.
 
 ### Monday 29th September
 
-* **10:30-11:30** - Lecture: Ashley Sawle 'Introduction to bioinformatics' - [slides](lecture_slides/BioinformaticsLecture.pdf)  
-* **11.30-13:00** - Lecture: Maike de la Roche, Adelyne Chan 'qRT-PCR'    
+* **10:30-11:30** - Lecture: 'Introduction to bioinformatics' (Ash) [slides](lecture_slides/BioinformaticsLecture.pdf)   
+* **11.30-13:00** - Lecture: 'RT-qPCR' (Maike)    
 * **13:00-14:00** - Lunch
 * **14:00-15:00** - Keynote Lecture: Professor James Brenton 'Genomic instability in high-grade serous ovarian cancer'
 * **15:00-17:00** - Applied Bioinformatics training: Introduction into R (Ash)    
@@ -81,7 +81,7 @@ course, as they will need some editing first.
 
 ### Friday 3rd October
 
-* **10:00-11:30** - Lecture: Maike de la Roche 'Cancer Immunotherapy'  
+* **10:00-11:30** - Lecture: 'Cancer Immunotherapy' (Maike)    
 * **11:30-13:00** - Career advice workshop: CVs, applications, interviews   
 * **13:00-14:00 Lunch  
 * **14:00-15:00** - Keynote Lecture: Professor Greg Hannon 'Metastasis and vascular mimicry in breast cancer'  
