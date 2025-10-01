@@ -44,47 +44,47 @@ course, as they will need some editing first.
 ### Monday 29th September
 
 * **10:30-11:30** - Lecture: "Introduction to bioinformatics" (Ash) [slides](lecture_slides/BioinformaticsLecture.pdf)   
-* **11.30-13:00** - Lecture: 'qRT-PCR' (Maike)    
+* **11.30-13:00** - Lecture: "qRT-PCR" (Maike)    
 * **13:00-14:00** - Lunch
-* **14:00-15:00** - Keynote Lecture: Professor James Brenton "Genomic instability in high-grade serous ovarian cancer'
+* **14:00-15:00** - Keynote Lecture: Professor James Brenton "Genomic instability in high-grade serous ovarian cancer"
 * **15:00-17:00** - Applied Bioinformatics training: Introduction into R (Ash)    
-* **15:00-17:00** - Practical: qRT-PCR (Adelyne, Gideon, Maike)
+* **15:00-17:00** - Laboratory Practical: qRT-PCR (Adelyne, Gideon, Maike)
 
 **Note:** links to practical materials are at the bottom of the page.   
 
 ### Tuesday 30th September
 
-* **10:00-11:30** - Lecture: Introduction to Cancer Biology (Adelyne) [slides](lecture_slides/IntroductionToCancerBiology.pdf)  
-* **11.30-13:00** - Lecture: Flow Cytometry (Maike)    
+* **10:00-11:30** - Lecture: "Introduction to Cancer Biology" (Adelyne) [slides](lecture_slides/IntroductionToCancerBiology.pdf)  
+* **11.30-13:00** - Lecture: "Flow Cytometry" (Maike)    
 * **13:00-14:00** - Lunch 
-* **14:00-15:00** - Keynote Lecture: Professor Masashi Narita 'Cellular senescence in cancer and ageing'   
+* **14:00-15:00** - Keynote Lecture: Professor Masashi Narita "Cellular senescence in cancer and ageing"   
 * **15:00-17:00** - Applied Bioinformatics training: Introduction into R (Ash)   
-* **15:00-17:00** - Practical: Flow Cytometry (Maike, Gideon) 
+* **15:00-17:00** - Laboratory Practical: Flow Cytometry (Maike, Gideon) 
 
 ### Wednesday 1st October
 
-* **10:00-11:30** - Lecture: Introduction to Cancer Immunology (Maike)   
-* **11:30-13:00** - Cancer Biology Techniques: WB, ELISA, Immunohistochemistry (IHC) (Adelyne, Gideon)   
+* **10:00-11:30** - Lecture: "Introduction to Cancer Immunology (Maike)   
+* **11:30-13:00** - Lecture: "Cancer Biology Techniques: WB, ELISA, Immunohistochemistry" (Adelyne, Gideon)   
 * **13:00-14:00** - Lunch  
-* **14:00-15:00** - Keynote Lecture: Dr Hana Aliee 'Why our cells are unique and what makes us different: A new perspective through causal generative models'   
-* **15:00-17:00** - Practical: Western Blot Part 1  
+* **14:00-15:00** - Keynote Lecture: Dr Hana Aliee "Why our cells are unique and what makes us different: A new perspective through causal generative models"   
 * **15:00-17:00** - Applied Bioinformatics training: Introduction into R (Ash)   
+* **15:00-17:00** - Laboratory Practical: Western Blot Part 1  
 
 ### Thursday 2nd October
 
-* **10:00-11:30** -  Lecture: Gideon Nsubuga 'Dissecting pancreatic cancer metastasis'  
+* **10:00-11:30** -  Lecture: "Dissecting pancreatic cancer metastasis" (Gideon)    
 * **11:30-13:00** -  Applied Bioinformatics training: Introduction into R (Ash)   
 * **13:00-14:00** -  Lunch  
-* **14:00-15:00** -  Keynote Lecture: Dr Tim Halim 'Innate lymphocytes in cancer'  
-* **15:00-17:00** -  Practical: Western Blot Part 2  
+* **14:00-15:00** -  Keynote Lecture: Dr Tim Halim "Innate lymphocytes in cancer"  
 * **15:00-17:00** -  Applied Bioinformatics training: Introduction into R (Ash)   
+* **15:00-17:00** -  Laboratory Practical: Western Blot Part 2  
 
 ### Friday 3rd October
 
-* **10:00-11:30** - Lecture: 'Cancer Immunotherapy' (Maike)    
+* **10:00-11:30** - Lecture: "Cancer Immunotherapy" (Maike)    
 * **11:30-13:00** - Career advice workshop: CVs, applications, interviews   
 * **13:00-14:00** - Lunch  
-* **14:00-15:00** - Keynote Lecture: Professor Greg Hannon 'Metastasis and vascular mimicry in breast cancer'  
+* **14:00-15:00** - Keynote Lecture: Professor Greg Hannon "Metastasis and vascular mimicry in breast cancer"  
 * **15:00-16:00** - Personal insights on PhD study in Cambridge and beyond (Gideon, Kamsi, Abel Walekhwa)  
 * **16:00-17:00** - Group photo and feedback session  
 
