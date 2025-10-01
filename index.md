@@ -103,4 +103,5 @@ course, as they will need some editing first.
 
 #### Additional Bioinformatics resources:
 
-* [Differential gene expression analysis with bulk RNASeq data in R](https://bioinformatics-core-shared-training.github.io/Reverse_Summer_School_2024_RNAseq/Full_Course_Index.html)
+* [Differential gene expression analysis with bulk RNASeq data in R](https://bioinformatics-core-shared-training.github.io/Reverse_Summer_School_2024_RNAseq) - see below for R packages and data.
+* [Summer School 2024 Precourse instructions](https://bioinformatics-core-shared-training.github.io/Reverse_Summer_School_2024_PreCourse/) - Includes instructions for installing packages and downloading data for the course above.
