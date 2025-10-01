@@ -54,7 +54,7 @@ course, as they will need some editing first.
 
 ### Tuesday 30th September
 
-* **10:00-11:30** - Lecture: Introduction to Cancer Biology (Adelyne)  
+* **10:00-11:30** - Lecture: Introduction to Cancer Biology (Adelyne) [slides](lecture_slides/IntroductionToCancerBiology.pdf)  
 * **11.30-13:00** - Lecture: Flow Cytometry (Maike)    
 * **13:00-14:00** - Lunch 
 * **14:00-15:00** - Keynote Lecture: Professor Masashi Narita 'Cellular senescence in cancer and ageing'   
