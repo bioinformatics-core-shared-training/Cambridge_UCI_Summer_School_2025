@@ -23,18 +23,18 @@ The programme will include lectures and practical sessions on:
 
 ### In Uganda:
   
-* Maike de la Roche (Cancer Immunology and techniques)    
-* Adelyne Chan (Cancer Biology and techniques)    
-* Gideon Nsubuga (Cancer Biology and techniques).  
-* Ashley Sawle (Bioinformatics) 
+* **[Maike de la Roche](https://www.cruk.cam.ac.uk/research-groups/de-la-roche-group)** (Cancer Immunology and techniques)    
+* **Adelyne Chan** (Cancer Biology and techniques)    
+* **Gideon Nsubuga** (Cancer Biology and techniques).  
+* **Ashley Sawle** (Bioinformatics) 
 
 ### Online lectures:
 
-* Dr Hana Aliee, Group Leader, CRUK Cambridge Institute (Computational Tumour Biology)   
-* Professor James Brenton, Senior Group Leader, CRUK Cambridge Institute, Professor of Ovarian Cancer Medicine and Honorary Consultant in Medical Oncology (Ovarian Cancer)     
-* Dr Tim Halim, Senior Group Leader, CRUK Cambridge Institute (Cancer Immunology)   
-* Professor Greg Hannon PhD, FRS, FMedSci, Royal Society Wolfson Research Professor, Professor of Cancer Molecular Biology, Director, CRUK Cambridge Institute (Metastasis, Spatial Analysis, Vascular Mimicry)   
-* Professor Masashi Narita, Senior Group Leader, CRUK Cambridge Institute, Professor of Senobiology, within the Department of Oncology of the University of Cambridge       
+* **[Dr Hana Aliee](https://www.cruk.cam.ac.uk/research-groups/aliee-group)**, Group Leader, CRUK Cambridge Institute (Computational Tumour Biology)   
+* **[Professor James Brenton](https://www.cruk.cam.ac.uk/research-groups/brenton-group)**, Senior Group Leader, CRUK Cambridge Institute, Professor of Ovarian Cancer Medicine and Honorary Consultant in Medical Oncology (Ovarian Cancer)     
+* **[Dr Tim Halim](https://www.cruk.cam.ac.uk/research-groups/halim-group)**, Senior Group Leader, CRUK Cambridge Institute (Cancer Immunology)   
+* **[Professor Greg Hannon](https://www.cruk.cam.ac.uk/research-groups/hannon-group)**, FRS, FMedSci, Royal Society Wolfson Research Professor, Professor of Cancer Molecular Biology, Director, CRUK Cambridge Institute (Metastasis, Spatial Analysis, Vascular Mimicry)   
+* **[Professor Masashi Narita](https://www.cruk.cam.ac.uk/research-groups/narita-group)**, Senior Group Leader, CRUK Cambridge Institute, Professor of Senobiology, within the Department of Oncology of the University of Cambridge       
 
 ## Programme timetable
 
