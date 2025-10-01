@@ -83,7 +83,7 @@ course, as they will need some editing first.
 
 * **10:00-11:30** - Lecture: 'Cancer Immunotherapy' (Maike)    
 * **11:30-13:00** - Career advice workshop: CVs, applications, interviews   
-* **13:00-14:00 Lunch  
+* **13:00-14:00** - Lunch  
 * **14:00-15:00** - Keynote Lecture: Professor Greg Hannon 'Metastasis and vascular mimicry in breast cancer'  
 * **15:00-16:00** - Personal insights on PhD study in Cambridge and beyond (Gideon, Kamsi, Abel Walekhwa)  
 * **16:00-17:00** - Group photo and feedback session  
