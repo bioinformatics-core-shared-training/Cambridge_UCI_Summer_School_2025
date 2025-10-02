@@ -93,9 +93,9 @@ course, as they will need some editing first.
 
 ### Laboratory protocols
 
-* [qRT-PCR protocol]()
-* [Flow cytometry]()
-* [Western blot protocol]()
+* [qRT-PCR protocol](protocols/qPCR.pdf)
+* [Flow cytometry](protocols/Flow_Cytometry.pdf)
+* [Western blot protocol](protocols/Western_Blot.pdf)
 
 ### Bioinformatics programme
 
