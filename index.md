@@ -64,7 +64,7 @@ course, as they will need some editing first.
 ### Wednesday 1st October
 
 * **10:00-11:30** - Lecture: "Introduction to Cancer Immunology (Maike)   
-* **11:30-13:00** - Lecture: "Cancer Biology Techniques: Western Blot, ELISA, Immunohistochemistry" (Adelyne, Gideon)   
+* **11:30-13:00** - Lecture: "Cancer Biology Techniques: Western Blot, ELISA, Immunohistochemistry" (Adelyne, Gideon) [slides](lecture_slides/WB_ELISA_IHC.pdf)   
 * **13:00-14:00** - Lunch  
 * **14:00-15:00** - Keynote Lecture: Dr Hana Aliee "Why our cells are unique and what makes us different: A new perspective through causal generative models"   
 * **15:00-17:00** - Applied Bioinformatics training: Introduction to R (Ash)   
