@@ -43,8 +43,8 @@ course, as they will need some editing first.
 
 ### Monday 29th September
 
-* **10:30-11:30** - Lecture: "Introduction to bioinformatics" (Ash) [slides](lecture_slides/BioinformaticsLecture.pdf)   
-* **11.30-13:00** - Lecture: "Principles and Applications of quantitative Real-Time PCR" (Maike) [slides](lecture_slides/qPCR lecture_Cancer Biology Summer School Kampala 2025_final.pdf)    
+* **10:30-11:30** - Lecture: "Introduction to bioinformatics" (Ash) [[slides]](lecture_slides/BioinformaticsLecture.pdf)   
+* **11.30-13:00** - Lecture: "Principles and Applications of quantitative Real-Time PCR" (Maike) [[slides]](lecture_slides/qPCR lecture_Cancer Biology Summer School Kampala 2025_final.pdf)    
 * **13:00-14:00** - Lunch
 * **14:00-15:00** - Keynote Lecture: Professor James Brenton "Genomic instability in high-grade serous ovarian cancer"
 * **15:00-17:00** - Applied Bioinformatics training: Introduction to R (Ash)    
@@ -54,8 +54,8 @@ course, as they will need some editing first.
 
 ### Tuesday 30th September
 
-* **10:00-11:30** - Lecture: "Introduction to Cancer Biology" (Adelyne) [slides](lecture_slides/IntroductionToCancerBiology.pdf)  
-* **11.30-13:00** - Lecture: "Flow Cytometry" (Maike) [slides](lecture_slides/Flow Cytometry lecture 2025_Maike de la Roche_final.pdf)    
+* **10:00-11:30** - Lecture: "Introduction to Cancer Biology" (Adelyne) [[slides]](lecture_slides/IntroductionToCancerBiology.pdf)  
+* **11.30-13:00** - Lecture: "Flow Cytometry" (Maike) [[slides]](lecture_slides/Flow Cytometry lecture 2025_Maike de la Roche_final.pdf)    
 * **13:00-14:00** - Lunch 
 * **14:00-15:00** - Keynote Lecture: Professor Masashi Narita "Cellular senescence in cancer and ageing"   
 * **15:00-17:00** - Applied Bioinformatics training: Introduction to R (Ash)   
@@ -64,7 +64,7 @@ course, as they will need some editing first.
 ### Wednesday 1st October
 
 * **10:00-11:30** - Lecture: "Introduction to Cancer Immunology" (Maike)   
-* **11:30-13:00** - Lecture: "Cancer Biology Techniques: Western Blot, ELISA, Immunohistochemistry" (Adelyne, Gideon) [slides](lecture_slides/WB_ELISA_IHC.pdf)   
+* **11:30-13:00** - Lecture: "Cancer Biology Techniques: Western Blot, ELISA, Immunohistochemistry" (Adelyne, Gideon) [[slides]](lecture_slides/WB_ELISA_IHC.pdf)   
 * **13:00-14:00** - Lunch  
 * **14:00-15:00** - Keynote Lecture: Dr Hana Aliee "Why our cells are unique and what makes us different: A new perspective through causal generative models"   
 * **15:00-17:00** - Applied Bioinformatics training: Introduction to R (Ash)   
@@ -82,7 +82,7 @@ course, as they will need some editing first.
 ### Friday 3rd October
 
 * **10:00-11:30** - Lecture: "Cancer Immunotherapy" (Maike)    
-* **11:30-13:00** - Career advice workshop: CVs, applications, interviews [slides](lecture_slides/JUL25 Cancer Biology Summer School_CV and career advice talk_final.pdf)   
+* **11:30-13:00** - Career advice workshop: CVs, applications, interviews [[slides]](lecture_slides/JUL25 Cancer Biology Summer School_CV and career advice talk_final.pdf)   
 * **13:00-14:00** - Lunch  
 * **14:00-15:00** - Keynote Lecture: Professor Greg Hannon "Metastasis and vascular mimicry in breast cancer"  
 * **15:00-16:00** - Personal insights on PhD study in Cambridge and beyond (Gideon, Kamsi, Abel Walekhwa)  
