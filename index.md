@@ -50,7 +50,7 @@ course, as they will need some editing first.
 * **15:00-17:00** - Applied Bioinformatics training: Introduction to R (Ash)    
 * **15:00-17:00** - Laboratory Practical: qRT-PCR (Adelyne, Gideon, Maike)
 
-**Note:** links to practical materials are at the bottom of the page.   
+**Note:** links to all practical materials are at the bottom of the page.   
 
 ### Tuesday 30th September
 
@@ -103,5 +103,13 @@ course, as they will need some editing first.
 
 #### Additional Bioinformatics resources:
 
-* [Differential gene expression analysis with bulk RNASeq data in R](https://bioinformatics-core-shared-training.github.io/Reverse_Summer_School_2024_RNAseq) - see below for R packages and data.
+* [Cheat sheets for the Tidyverse (and other packages)](https://posit.co/resources/cheatsheets/)  
+    I can't stress enough how useful these are when you are learning R. To begin with download the sheets for:   
+    * [dplyr](https://rstudio.github.io/cheatsheets/data-transformation.pdf)   
+    * [tidyr](https://rstudio.github.io/cheatsheets/tidyr.pdf)    
+    * [stringr](https://rstudio.github.io/cheatsheets/strings.pdf) 
+    * [ggplot2](https://rstudio.github.io/cheatsheets/data-visualization.pdf)  
+
+    Print them out and keep them nearby for reference whenever you are coding. - Ash
+* [Differential gene expression analysis with bulk RNAseq data in R](https://bioinformatics-core-shared-training.github.io/Reverse_Summer_School_2024_RNAseq) - see below for R packages and data.
 * [Summer School 2024 Precourse instructions](https://bioinformatics-core-shared-training.github.io/Reverse_Summer_School_2024_PreCourse/) - Includes instructions for installing packages and downloading data for the course above.
