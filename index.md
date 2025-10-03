@@ -104,7 +104,7 @@ course, as they will need some editing first.
 #### Additional Bioinformatics resources:
 
 * [Cheat sheets for the Tidyverse (and other packages)](https://posit.co/resources/cheatsheets/)  
-    I can't stress enough how useful these are when you are learning R. To begin with download the sheets for:   
+    These cheat sheets are invaluable resources that will save you countless hours of frustration when learning R! To begin with, download the sheets for:   
     * [dplyr](https://rstudio.github.io/cheatsheets/data-transformation.pdf)   
     * [tidyr](https://rstudio.github.io/cheatsheets/tidyr.pdf)    
     * [stringr](https://rstudio.github.io/cheatsheets/strings.pdf) 
